@@ -1,2 +1,4 @@
-# BST-balanced-and-unbalanced-
-BST trees
+# BST(balanced and unbalanced trees)
+Vanilla BST
+AVL Trees
+Red-black Trees
